@@ -146,16 +146,16 @@ Photorealistic interior photograph of a spacious 22 square meter master bedroom 
 
 | Комната | Файл |
 |---|---|
-| Кухня-гостиная (общий план) | `room-kitchen-living.jpg` |
-| Кухня (деталь: остров, часы) | `room-kitchen-detail.jpg` |
-| Гостиная (у панорамы) | `room-living-zone.jpg` |
-| Холл (входная зона) | `room-hall.jpg` |
-| Галерея (коридор) | `room-gallery.jpg` |
-| Гостевая спальня | `room-guest-bedroom.jpg` |
-| Гостевая ванная (светлая) | `room-guest-bathroom.jpg` |
-| Постирочная | `room-laundry.jpg` |
-| Ванная тёмная (спа) | `room-dark-bathroom.jpg` |
-| Мастер-спальня | `room-master-bedroom.jpg` |
+| Кухня-гостиная (общий план) | `04_АСЕТЫ_КВАРТИРА/room-kitchen-living.jpg` |
+| Кухня (деталь: остров, часы) | `04_АСЕТЫ_КВАРТИРА/room-kitchen-detail.jpg` |
+| Гостиная (у панорамы) | `04_АСЕТЫ_КВАРТИРА/room-living-zone.jpg` |
+| Холл (входная зона) | `04_АСЕТЫ_КВАРТИРА/room-hall.jpg` |
+| Галерея (коридор) | `04_АСЕТЫ_КВАРТИРА/room-gallery.jpg` |
+| Гостевая спальня | `04_АСЕТЫ_КВАРТИРА/room-guest-bedroom.jpg` |
+| Гостевая ванная (светлая) | `04_АСЕТЫ_КВАРТИРА/room-guest-bathroom.jpg` |
+| Постирочная | `04_АСЕТЫ_КВАРТИРА/room-laundry.jpg` |
+| Ванная тёмная (спа) | `04_АСЕТЫ_КВАРТИРА/room-dark-bathroom.jpg` |
+| Мастер-спальня | `04_АСЕТЫ_КВАРТИРА/room-master-bedroom.jpg` |
 
-Макет: `plan.svg` — утверждён.
+Макет: `04_АСЕТЫ_КВАРТИРА/plan.svg` — утверждён.
 Альбом: 10/10 кадров утверждено единогласно, без правок (13.09.2026). Статус: золотой фонд сессии.
