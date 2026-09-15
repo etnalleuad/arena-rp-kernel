@@ -1,39 +1,40 @@
 # Контрольные суммы после уборки 15.09.2026
 ## Область: корневой вход, L1 и ассеты; архивные дубли намеренно исключены
 ## Формат: md5[:12]  bytes  sha256  path
-97838be24395       252269  895ebf0b46746ea9415104312d3d84a52ef06972efd6b40b09558e7143dc0f27  01_КАНОН_ИГРА/01_БИБЛИЯ_ПЕРСОНАЖА_АРСЕНИЙ_ПОПОВ_2026.md
-d971e438e5ef       114495  933c4ab9e69b774c6af6b5865eebe6c54f2aae3d547a1d123515540449436b2c  01_КАНОН_ИГРА/02_ГОЛОСОВОЙ_СЛОВАРЬ_АРСЕНИЙ_ПОПОВ.md
-543ed8156dd2        32030  d3e3931b04ecd6a697d98038de4e2758d1629a8808030da8a7775dfbfde64341  01_КАНОН_ИГРА/04_КСАНА_ЧТО_ЗНАЕТ_АРСЕНИЙ.md
-e986162f3043        22791  02f4834cfc2c75910ef31f02887f7091dc606ff762c7592f56ed572227919054  01_КАНОН_ИГРА/05_ОБРАЗЦЫ_РЕГИСТРА.md
-501abdf16024        16656  0be3284afa7b955f45eec4361d10b403199a281fd077048b40fcc364bb864267  01_КАНОН_ИГРА/06_БАЗА_ШУТОК_ЗАКУЛИСНЫЙ_ДИАЛОГ.md
-d2b93f2f384b         6410  15c9859dbe17941ffc6302e03b7b5eb4f91d6f57a0bd3da5e98be8e16a43c258  01_КАНОН_ИГРА/08_БРИДЖ_OOC_ПЕРВОЕ_СООБЩЕНИЕ_ЧАТ7.md
-ba146f8c4548       113197  27b98b24d669e84a9dfffa848f06ac6b15bcdd59eb1207a8b14fea989091d7e8  02_ЯДРО_СИСТЕМЫ/00_SYSTEM_KERNEL_v2.23.md
-f4d32b0e577b       117720  7a4b1ab60e3f7b0c515a6f630960a0bd7a2cdcb0fbe32a6dc0b3a06868720f1a  02_ЯДРО_СИСТЕМЫ/00_SYSTEM_KERNEL_v2.24.md
-32a45295f6cc      1982743  b6faeadacc383ce5384006217e99ef79033b4be805643e91a976f58010252c2a  04_АСЕТЫ_КВАРТИРА/визуал_Арсений/Max_a_Full-body_photo_of_a (1).png
-b2ce47f35629      1974684  2bfceb7d40367ad764a0daa927e703f587274061df7d533cde636c45cda4ce8a  04_АСЕТЫ_КВАРТИРА/визуал_Арсений/Max_a_Full-body_photo_of_a (3).png
-ebb6ccf433f1      1537379  5a6b99affdc191b78339ce94c1a9557d4f543f388c7f859a5382b18fd21f96fe  04_АСЕТЫ_КВАРТИРА/визуал_Ксана/1789348635939-image.png
-744ee4b69a32      1492494  1b21257b0253db430b595b5e0487eeef68b31530a763c0c6c448d6bbfb2b9ff2  04_АСЕТЫ_КВАРТИРА/визуал_Ксана/image (3).png
-8d19db4f1bf3       962502  c82d90084ab5abf72ca58bb80be7389c30fe9eed54203d67387210d6cf07c67a  04_АСЕТЫ_КВАРТИРА/визуал_Ксана/tattoo_arm_real.jpg
-d65bc88bb712       201395  8567c774e59eca44c8b0bd1cbbaedee8ab494335090ae8a5d81ae042526947cd  04_АСЕТЫ_КВАРТИРА/комнаты/room-dark-bathroom.jpg
-b221a4f9f606       100066  70511899ed8af6a8548008a3c1dae2608de46d698bc5046735d41e89137d3ef7  04_АСЕТЫ_КВАРТИРА/комнаты/room-gallery.jpg
-6d1e837581c7       154390  515e7a188bfd1daf310dfea17f9188e576a3ac110efc2a40c88ad43bf27e8dae  04_АСЕТЫ_КВАРТИРА/комнаты/room-guest-bathroom.jpg
-d119ed373f4d       171085  7a2a39d57bf881be4c04e1b5e6f9f7f4f60017e82733b62e320dabe0fcb14241  04_АСЕТЫ_КВАРТИРА/комнаты/room-guest-bedroom.jpg
-c1bdaf861e32       241355  b25433e8ef8e50f10297fb136c8a1ae11ea3eb1baf3234838302c9054d53dbcb  04_АСЕТЫ_КВАРТИРА/комнаты/room-hall.jpg
-30893e112ae4       161045  2fa7745c9b8c970aef6ce5ba6628e5ee1e5c54182b36bbe048f275fa8ca53ec6  04_АСЕТЫ_КВАРТИРА/комнаты/room-kitchen-detail.jpg
-8448128399ad       222412  c15cdd44e7b53c9325dac69701ac4b1b4b34964e0e5c60a82a36e748fa44d5ea  04_АСЕТЫ_КВАРТИРА/комнаты/room-kitchen-living.jpg
-8d6c5438e696       124698  0612654c8dc9b20ed91f8f3c32fdf30ee4ff48a169660232a2a698e6c55c559c  04_АСЕТЫ_КВАРТИРА/комнаты/room-laundry.jpg
-4a48ce6af3a4       223467  49edf2bb0e978f6f7aabf9cac6e4a7d7dcbdea420cc02c33ddb111c248976991  04_АСЕТЫ_КВАРТИРА/комнаты/room-living-zone.jpg
-d0b6e36d7eb6       203651  65541da1296fa1459b322663cc5d2afc68358dd0900d533ed4f5d8e92e69fba2  04_АСЕТЫ_КВАРТИРА/комнаты/room-master-bedroom.jpg
-8e3e94dddb97       564390  3c2aa1ec400c278562fa7e377a4bd92a5d89a0b0d02a8281774ad97f6af47f3d  04_АСЕТЫ_КВАРТИРА/одежда_четверг/Generated Image September 14, 2026 - 4_50AM (1).jpg
-80293b8435be       503530  41ec1621846470ac2e7e3b2d68808430e38a2d508c8ce36c9d293304767c8831  04_АСЕТЫ_КВАРТИРА/одежда_четверг/Generated Image September 14, 2026 - 4_50AM.jpg
-35aa8939351f       689491  104100a02f426c3180d068c405ee9cce2684ce66d13a4db8076b018250dfbee7  04_АСЕТЫ_КВАРТИРА/одежда_четверг/Generated Image September 14, 2026 - 5_21AM.jpg
-36f89294cbb1        19276  d6ff61efccb1538b936efcd0bfbf16ff03ebca6a853907ad498d57eb0fd29ad2  04_АСЕТЫ_КВАРТИРА/план/plan.svg
-3a11f8c271a2        44490  da49d638e50a4057a80c1308de34503eeed442282327462954ce57b9cce7f647  04_АСЕТЫ_КВАРТИРА/предметы/Konstruktor-Lego-Art-LEGO-ART-31212-Mlechnyj-Put1.webp
-44ef95fd96fe        32141  967e0262e1dd8804a0dc996804331d8651464a143224a4e8fbd9cc5f023228e7  04_АСЕТЫ_КВАРТИРА/предметы/images.jpg
-4dff212f5b56      2316702  fadf425ea793c3a5cf2f127f69a30505e92d817bc52d983813d739a70237a184  04_АСЕТЫ_КВАРТИРА/сцены/Max_a_[Prefix_-_Dynamic_Re (83).png
-ce839acb4f12      1567928  eabc693e8c2d2d994deae698ff4dd9342e2fc144adf00a024da2ce4d1e540544  04_АСЕТЫ_КВАРТИРА/сцены/image (2).png
-d2d04e7b9811        16949  07c50455242b0d4a5a8a186722ed8eb0a93cfad3e795744ffce2ea26b04a78b2  README.md
-57a221eccdc9        10501  22ac41fdf187b09a388ea08e7869a5be4871d7b641b368ee074ba9acae222c71  НАВИГАЦИЯ.md
-66cbd5f70741        13641  a3c30cfbd8139172e4d60f6772d52678ae2690ad6fbd9a5eef719053836fa2bb  НОВЫЙ_ЧАТ_ПАКЕТ.md
-78a5782a261f         8108  59e4dfef2f3e294c73ed93ff6ede71b23772e27960e918c02341d87aeac6608d  СВОД_КАНОН_14_09.md
-068bc78b7c93         6160  ae104e59e0a68c9aa2f0deafd5952711e75a56b9e316aec5e5ba65766e4e3e2e  ФОТО_МАНИФЕСТ.md
+8df398c5218a         17081  7aa9f239d8f0549d5f2c456592aefd95ec6f850d39d0d8043d7725c36e054355  README.md
+5e5d3c492c15         11297  e2b77433e75abdc3bbe60e9ba04f374aef5b81e1e60f4d573fb4c80806cfbeb4  НАВИГАЦИЯ.md
+66cbd5f70741         13641  a3c30cfbd8139172e4d60f6772d52678ae2690ad6fbd9a5eef719053836fa2bb  НОВЫЙ_ЧАТ_ПАКЕТ.md
+78a5782a261f          8108  59e4dfef2f3e294c73ed93ff6ede71b23772e27960e918c02341d87aeac6608d  СВОД_КАНОН_14_09.md
+068bc78b7c93          6160  ae104e59e0a68c9aa2f0deafd5952711e75a56b9e316aec5e5ba65766e4e3e2e  ФОТО_МАНИФЕСТ.md
+97838be24395        252269  895ebf0b46746ea9415104312d3d84a52ef06972efd6b40b09558e7143dc0f27  01_КАНОН_ИГРА/01_БИБЛИЯ_ПЕРСОНАЖА_АРСЕНИЙ_ПОПОВ_2026.md
+d971e438e5ef        114495  933c4ab9e69b774c6af6b5865eebe6c54f2aae3d547a1d123515540449436b2c  01_КАНОН_ИГРА/02_ГОЛОСОВОЙ_СЛОВАРЬ_АРСЕНИЙ_ПОПОВ.md
+354f599eaba4        181902  4cc5c1484553b868caf92a02db761fd1f098be6f0610fa9d58ba3f593562ada2  01_КАНОН_ИГРА/03_ХРОНОЛОГИЯ_ПОЛНАЯ_v3.md
+543ed8156dd2         32030  d3e3931b04ecd6a697d98038de4e2758d1629a8808030da8a7775dfbfde64341  01_КАНОН_ИГРА/04_КСАНА_ЧТО_ЗНАЕТ_АРСЕНИЙ.md
+e986162f3043         22791  02f4834cfc2c75910ef31f02887f7091dc606ff762c7592f56ed572227919054  01_КАНОН_ИГРА/05_ОБРАЗЦЫ_РЕГИСТРА.md
+501abdf16024         16656  0be3284afa7b955f45eec4361d10b403199a281fd077048b40fcc364bb864267  01_КАНОН_ИГРА/06_БАЗА_ШУТОК_ЗАКУЛИСНЫЙ_ДИАЛОГ.md
+4aa109240458          2801  e8f144a216102377186a5fb26520f3ff9112ed3e3647cf2265d5d6a71a440c09  01_КАНОН_ИГРА/08_БРИДЖ_OOC_ПЕРВОЕ_СООБЩЕНИЕ_ЧАТ7.md
+f4d32b0e577b        117720  7a4b1ab60e3f7b0c515a6f630960a0bd7a2cdcb0fbe32a6dc0b3a06868720f1a  02_ЯДРО_СИСТЕМЫ/00_SYSTEM_KERNEL_v2.24.md
+f922b4171501        119931  d164bf527d65ae46ecb694896a907f048cb5b77af5d9ab6d0e254d35590a5dd9  02_ЯДРО_СИСТЕМЫ/00_SYSTEM_KERNEL_v2.25.md
+32a45295f6cc       1982743  b6faeadacc383ce5384006217e99ef79033b4be805643e91a976f58010252c2a  04_АСЕТЫ_КВАРТИРА/визуал_Арсений/Max_a_Full-body_photo_of_a (1).png
+b2ce47f35629       1974684  2bfceb7d40367ad764a0daa927e703f587274061df7d533cde636c45cda4ce8a  04_АСЕТЫ_КВАРТИРА/визуал_Арсений/Max_a_Full-body_photo_of_a (3).png
+ebb6ccf433f1       1537379  5a6b99affdc191b78339ce94c1a9557d4f543f388c7f859a5382b18fd21f96fe  04_АСЕТЫ_КВАРТИРА/визуал_Ксана/1789348635939-image.png
+744ee4b69a32       1492494  1b21257b0253db430b595b5e0487eeef68b31530a763c0c6c448d6bbfb2b9ff2  04_АСЕТЫ_КВАРТИРА/визуал_Ксана/image (3).png
+8d19db4f1bf3        962502  c82d90084ab5abf72ca58bb80be7389c30fe9eed54203d67387210d6cf07c67a  04_АСЕТЫ_КВАРТИРА/визуал_Ксана/tattoo_arm_real.jpg
+d65bc88bb712        201395  8567c774e59eca44c8b0bd1cbbaedee8ab494335090ae8a5d81ae042526947cd  04_АСЕТЫ_КВАРТИРА/комнаты/room-dark-bathroom.jpg
+b221a4f9f606        100066  70511899ed8af6a8548008a3c1dae2608de46d698bc5046735d41e89137d3ef7  04_АСЕТЫ_КВАРТИРА/комнаты/room-gallery.jpg
+6d1e837581c7        154390  515e7a188bfd1daf310dfea17f9188e576a3ac110efc2a40c88ad43bf27e8dae  04_АСЕТЫ_КВАРТИРА/комнаты/room-guest-bathroom.jpg
+d119ed373f4d        171085  7a2a39d57bf881be4c04e1b5e6f9f7f4f60017e82733b62e320dabe0fcb14241  04_АСЕТЫ_КВАРТИРА/комнаты/room-guest-bedroom.jpg
+c1bdaf861e32        241355  b25433e8ef8e50f10297fb136c8a1ae11ea3eb1baf3234838302c9054d53dbcb  04_АСЕТЫ_КВАРТИРА/комнаты/room-hall.jpg
+30893e112ae4        161045  2fa7745c9b8c970aef6ce5ba6628e5ee1e5c54182b36bbe048f275fa8ca53ec6  04_АСЕТЫ_КВАРТИРА/комнаты/room-kitchen-detail.jpg
+8448128399ad        222412  c15cdd44e7b53c9325dac69701ac4b1b4b34964e0e5c60a82a36e748fa44d5ea  04_АСЕТЫ_КВАРТИРА/комнаты/room-kitchen-living.jpg
+8d6c5438e696        124698  0612654c8dc9b20ed91f8f3c32fdf30ee4ff48a169660232a2a698e6c55c559c  04_АСЕТЫ_КВАРТИРА/комнаты/room-laundry.jpg
+4a48ce6af3a4        223467  49edf2bb0e978f6f7aabf9cac6e4a7d7dcbdea420cc02c33ddb111c248976991  04_АСЕТЫ_КВАРТИРА/комнаты/room-living-zone.jpg
+d0b6e36d7eb6        203651  65541da1296fa1459b322663cc5d2afc68358dd0900d533ed4f5d8e92e69fba2  04_АСЕТЫ_КВАРТИРА/комнаты/room-master-bedroom.jpg
+8e3e94dddb97        564390  3c2aa1ec400c278562fa7e377a4bd92a5d89a0b0d02a8281774ad97f6af47f3d  04_АСЕТЫ_КВАРТИРА/одежда_четверг/Generated Image September 14, 2026 - 4_50AM (1).jpg
+80293b8435be        503530  41ec1621846470ac2e7e3b2d68808430e38a2d508c8ce36c9d293304767c8831  04_АСЕТЫ_КВАРТИРА/одежда_четверг/Generated Image September 14, 2026 - 4_50AM.jpg
+35aa8939351f        689491  104100a02f426c3180d068c405ee9cce2684ce66d13a4db8076b018250dfbee7  04_АСЕТЫ_КВАРТИРА/одежда_четверг/Generated Image September 14, 2026 - 5_21AM.jpg
+36f89294cbb1         19276  d6ff61efccb1538b936efcd0bfbf16ff03ebca6a853907ad498d57eb0fd29ad2  04_АСЕТЫ_КВАРТИРА/план/plan.svg
+3a11f8c271a2         44490  da49d638e50a4057a80c1308de34503eeed442282327462954ce57b9cce7f647  04_АСЕТЫ_КВАРТИРА/предметы/Konstruktor-Lego-Art-LEGO-ART-31212-Mlechnyj-Put1.webp
+44ef95fd96fe         32141  967e0262e1dd8804a0dc996804331d8651464a143224a4e8fbd9cc5f023228e7  04_АСЕТЫ_КВАРТИРА/предметы/images.jpg
+4dff212f5b56       2316702  fadf425ea793c3a5cf2f127f69a30505e92d817bc52d983813d739a70237a184  04_АСЕТЫ_КВАРТИРА/сцены/Max_a_[Prefix_-_Dynamic_Re (83).png
+ce839acb4f12       1567928  eabc693e8c2d2d994deae698ff4dd9342e2fc144adf00a024da2ce4d1e540544  04_АСЕТЫ_КВАРТИРА/сцены/image (2).png
